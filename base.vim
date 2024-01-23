@@ -27,4 +27,6 @@ set splitright
 set colorcolumn=120
 highlight ColorColumn ctermbg=darkgrey guibg=darkgrey
 
-
+" set fold method automatically
+:set foldmethod=indent
+:set foldlevel=99
