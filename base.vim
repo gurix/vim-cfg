@@ -30,3 +30,6 @@ highlight ColorColumn ctermbg=darkgrey guibg=darkgrey
 " set fold method automatically
 :set foldmethod=indent
 :set foldlevel=99
+
+" enable identline by default
+let g:indentLine_enabled = 1

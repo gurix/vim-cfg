@@ -9,5 +9,6 @@ Plugin 'mileszs/ack.vim'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'preservim/nerdtree'
+Plugin 'indentLine.vim'
 call vundle#end()
 
